@@ -48,4 +48,6 @@ function executeIfHasField(target,name){
 	});
 }
 
+function filter()
+
 executeIfHasField([1,2,5,3],'reverse');

@@ -1,3 +1,8 @@
-# nodejs-underscore
+# 函数式编程 
 
-### this is a demo for nodejs
+> 通过nodejs模块化加载 [`underscore`](http://underscorejs.org/)
+
+``` javascript
+    var _ = require("underscore");
+    var base = require("./base");
+```
